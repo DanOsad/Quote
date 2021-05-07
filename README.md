@@ -14,4 +14,4 @@ First clone the repo to your local machine. Make sure you have Python 3.7+ insta
 
 You'll then want to 'pip install -r requirements.txt' to make sure you install the correct versions of the necessary libraries this tool is built on (namely Pillow and Reportlab).
 
-Finally, simply run 'python app.py' from your terminal and answer the questions to produce a PDF in the same directory.
+Finally, simply run 'python app.py' from your terminal and answer the questions to produce a PDF in the same directory. I had added my own logo as the letterhead, but feel free to modify and use as you please.
