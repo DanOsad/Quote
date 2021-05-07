@@ -10,8 +10,8 @@ I decided to build this PDF generator that automates this work for me. It includ
 
 # How to use this tool:
 
-First clone the repo to your local machine. Make sure you have Python 3.7+ installed. I suggest using a virtual environment like 'VirtualENV' available from pip.
+First clone the repo to your local machine. Make sure you have Python 3.7+ installed. I suggest using a virtual environment like `Virtualenv` available from pip.
 
-You'll then want to 'pip install -r requirements.txt' to make sure you install the correct versions of the necessary libraries this tool is built on (namely Pillow and Reportlab).
+You'll then want to `pip install -r requirements.txt` to make sure you install the correct versions of the necessary libraries this tool is built on (namely Pillow and Reportlab).
 
-Finally, simply run 'python app.py' from your terminal and answer the questions to produce a PDF in the same directory. I had added my own logo as the letterhead, but feel free to modify and use as you please.
+Finally, simply run `python app.py` from your terminal and answer the questions to produce a PDF in the same directory. I had added my own logo as the letterhead, but feel free to modify and use as you please.
